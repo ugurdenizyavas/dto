@@ -1,5 +1,7 @@
 package com.deniz.framework.dto.converter.business.impl.valueconverter;
 
+import com.deniz.framework.dto.converter.business.impl.valueconverter.exception.DataNotExistException;
+
 /**
  * A value converter is an interface for String -> some simple type -> String conversions.
  * 
